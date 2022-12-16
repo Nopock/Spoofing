@@ -1,0 +1,4 @@
+name: HySpoof
+main: org.hyrical.spoof.HySpoof
+version: 1.0
+api-version: 1.8
